@@ -1,0 +1,1 @@
+Based on [repo](https://github.com/lydtechconsulting/kafka-kubernetes-demo/tree/v1.0.0)
